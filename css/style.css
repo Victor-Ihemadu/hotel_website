@@ -189,7 +189,7 @@ box i {
 }
 
 /* About Info */
-#about-info .info {
+#about-info .info-right {
     float: right;
     width: 50%;
     min-height: 100%;
@@ -267,5 +267,5 @@ box i {
     text-align: center;
     background: #444;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
 }
